@@ -1,5 +1,5 @@
 # SaaS Product Analytics Pipeline
-End-to-end ETL and analytics pipeline for SaaS products, processing user events and subscriptions to generate key metrics like churn, revenue, and feature adoption.
+End-to-end ETL and analytics pipeline for SaaS products, processing user events and subscriptions to generate key metrics like churn, revenue, and feature adoption. <br>
 Note: This notebook is designed to run on **Databricks**, which includes PySpark, Delta Lake, Spark SQL, and standard Python libraries (pandas, numpy, matplotlib). No additional package installation is required.
 
 ## Table of Contents 
