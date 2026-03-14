@@ -40,7 +40,7 @@ Subscriptions:
 | churn_date          | Date the subscription ended (if churned)                  |
 
 **Data Source**
-The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/philbertchan/saas-product-dashboard-mau-feature-usage-mrr?select=subscriptions.csv), containing real SaaS user events and subscription data. It has been adapted for this project to demonstrate churn analysis, revenue metrics, and feature adoption insights.
+This dataset is released under the [MIT License](https://www.kaggle.com/datasets/philbertchan/saas-product-dashboard-mau-feature-usage-mrr?select=subscriptions.csv) and used here for educational and portfolio purposes. It has been adapted for this project to demonstrate churn analysis, revenue metrics, and feature adoption insights.
 
 ## ETL Pipeline Architecture
 The pipeline follows a Bronze → Silver → Gold design pattern:
